@@ -9,4 +9,5 @@ Creador de paginas web, contenidos y desarrollo.
 
 ### Soporte y administracion
 
-Gobierno de TI, IA, PMO.
+Gobierno de TI, IA, PMO. 
+https://fontawesome.com/v4/whats-new/
